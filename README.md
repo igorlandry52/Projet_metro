@@ -1,1 +1,2 @@
 # Projet_metro
+Le but dans ce projet de pouvoir à partir d'une station de départ de pouvoir aller à une station d'arriver en île de france (choisi au préable par l'utilisateur) en utilisant le plus court trajet possible. Donc, pour cela nous avons utlisés l'algorithme de DIJKSTRA pour la recherche du plus court chemin. Et donc à notre disposition , nous avons un fichier sur lequel etait repertorié toutes les stations de metros, RER, grande Ligne ainsi que le temps séparant deux stations consécutives.
